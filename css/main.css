@@ -23,7 +23,7 @@ html {
   font-size: 1.125rem;
   display: inline-block;
   float: left;
-  width: 33%;
+  width: 33.3%;
   border: 1px solid #a63f38;
 }
 
@@ -43,6 +43,7 @@ h1 {
   font-size: 2rem;
   color: white;
   text-align: center;
+  padding: .4em 0;
 }
 
 img {
