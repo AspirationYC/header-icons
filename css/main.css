@@ -25,6 +25,7 @@ html {
   float: left;
   width: 33.3%;
   border: 1px solid #a63f38;
+  padding: .2em 0;
 }
 
 .nav-bar a {
